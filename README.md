@@ -18,7 +18,7 @@ Use npm to install it:
 
 To enable, check: Preferences | Languages & Frameworks | JavaScript | Code Quality Tools | ESLint
 
-![Enable support](screenshots/eslint.png)
+![Enable support](docs/eslint.png)
 
 ## Prettier
 
@@ -30,7 +30,7 @@ Use npm to install it:
 
 To enable, check: Preferences | Languages & Frameworks | JavaScript | Prettier
 
-![Enable support](screenshots/prettierr.png)
+![Enable support](docs/prettierr.png)
 
 ## Stylelint
 
@@ -42,4 +42,4 @@ Use npm to install it:
 
 To enable, check: Preferences | Languages & Frameworks | Style Sheets | Stylelint
 
-![Enable support](screenshots/stylelint.png)
+![Enable support](docs/stylelint.png)
